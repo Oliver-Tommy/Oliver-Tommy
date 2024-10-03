@@ -8,7 +8,7 @@ Reach me at oliver.tommy@icloud.com
 
 # MindGuide
 
-## Front End Application
+## Front End Web Application
 
 A website built to provide accessible information on mental health.
 
