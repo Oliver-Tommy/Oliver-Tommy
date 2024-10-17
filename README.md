@@ -13,3 +13,5 @@ Reach me at oliver.tommy@icloud.com
 A website built to provide accessible information on mental health.
 
 <a href="https://oliver-tommy.github.io/Mental-Health-Awareness/">View Website</a>
+
+<img src="responsivity.png">
