@@ -15,7 +15,7 @@
 
 <br>
 
-#TabVault
+# TabVault
 
 ## A Full Stack Web Application
 
@@ -25,7 +25,7 @@ TabVault is an online platform designed to help creators organize, store, and ma
 
 <a href="https://github.com/Oliver-Tommy/TabVault">View Repository</a>
 
-<img src="#">
+<img src="tabvault-responsivity.png">
 
 <br>
 
